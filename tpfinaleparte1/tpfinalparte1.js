@@ -1,3 +1,6 @@
+//Brunella Brancaleone y Ana Cotleroff
+//https://youtu.be/celow6Z5v3k
+
 let escenas = [];
 let texto= [];
 
